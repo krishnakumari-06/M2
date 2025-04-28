@@ -12,8 +12,14 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 7.	Continue the loop until you have iterated through all numbers from M to N.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/d036d432-bcad-4b21-ac7b-016e0906a38b)
+# INPUT:
+![image](https://github.com/user-attachments/assets/1715d7ea-406f-4fb7-9400-b0a5ab3618e3)
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/752f82d2-6a74-4ff4-aa49-5d66a6fe1351)
+
 
 
 
@@ -45,10 +51,15 @@ Write a C program to print the given triangular pattern using loop.
 5.	Continue the loop until you have printed the entire triangular pattern.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/95b65ea2-c6c2-41c8-9048-0e31a1ceb22c)
+
+# INPUT:
+![image](https://github.com/user-attachments/assets/89a68894-837c-4e94-b673-5e22a0610d23)
 
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/18393071-cfe2-4299-bf0f-bb73b8daf89e)
 
 
 
@@ -75,10 +86,16 @@ Write a C program to perform addition and subtraction of two numbers using funct
 
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/628bc348-e864-4894-bb22-24ed2ba23b31)
+
+# INPUT:
+ ![image](https://github.com/user-attachments/assets/b6ef45c8-0f4e-4778-8797-96d1d9b70a1f)
+
 
 ## OUTPUT:
 
 
+![image](https://github.com/user-attachments/assets/17e5c28d-4f0c-47b1-a523-1b601b9cd3e1)
 
 
 
@@ -106,10 +123,13 @@ Write a c program to find the sum of odd digits using for loop
 6.	Print the sum of odd digits.
 
 ## PROGRAM:
-
+![image](https://github.com/user-attachments/assets/0945730c-410a-4137-bce5-75d5e60b9478)
+# INPUT:
+![image](https://github.com/user-attachments/assets/751f1a7f-bf5a-4737-aef4-a07e9085d2eb)
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/6e830c9b-1df6-40ce-ae20-1bc52750f3e6)
 
 
 
@@ -137,8 +157,12 @@ d.	After the loop, print the factorial value.
 
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/2073ce12-6488-455e-9978-a157b745ed8d)
+# INPUT:
+![image](https://github.com/user-attachments/assets/bb499914-efca-48bd-aaca-6015d1f74e27)
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/79653d86-0435-4dc5-8237-ab02449607e5)
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
